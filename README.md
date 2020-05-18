@@ -1,6 +1,6 @@
 # hello-world
-Storing useful snippets and scripts as I learn, like this masterpiece:
-
+### Storing useful snippets and scripts as I learn python, useful things like this masterpiece:
+```
 import time
 
 def dun(play_count): 
@@ -20,3 +20,4 @@ time.sleep(2)
 print("These are their stories.") 
 time.sleep(1)
 dun(2)
+```
